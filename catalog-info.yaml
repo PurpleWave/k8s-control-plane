@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: k8s-control-plane
+  annotations:
+    github.com/project-slug: PurpleWave/k8s-control-plane
+spec:
+  type: other
+  lifecycle: unknown
+  owner: platform
